@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Why Iota is Useless and You Should Hate it Too</title>
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            color: #e74c3c;
+            text-align: center;
+        }
+
+        h2 {
+            color: #3498db;
+            margin-top: 30px;
+        }
+
+        p {
+            line-height: 1.6;
+            color: #333;
+        }
+
+        .emphasis {
+            color: red;
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>Why Iota is Useless and You Should Hate it Too</h1>
+        <p><strong>Main Text:</strong> Our teenage nightmare, the 9th Greek alphabet "Iota," is much more useless than you think it is. So let us dive deeper into this mathematical headache and stand against iota to banish it from the teenage experience of the next generation.</p>
+
+        <h2>The Beginning: How It Became the Nightmare</h2>
+        <p>It all started due to one simple equation:</p>
+        <p>\[ x^2 + 1 = 0 \]</p>
+        <p>Now, solving this equation will give you something like:</p>
+        <p>\[ x = \sqrt{-1} \]</p>
+        <p>But I now ask math lovers around the world: by just squaring both sides, we get:</p>
+        <p>\[ x^2 = -1 \]</p>
+        <p>It doesn’t seem like a big deal, but let’s just square both sides again, and we get:</p>
+        <p>\[ x^4 = 1 \] <span class="emphasis">RIGHT?</span></p>
+        <p>And now let’s take the fourth root of both sides:</p>
+        <p>I think we get something like:</p>
+        <p>\[ x = 1 \]</p>
+        <p class="emphasis">HUH? GETTING CONFUSED?</p>
+        <p class="emphasis">Now, you may think this is just a simple equation, but remember, this is where it all started.</p>
+        <p>This confusion can be extended to every equation that faces this same problem. <span class="emphasis">NOW I CAN SURELY SAY THAT COMPLEX NUMBERS ARE PRETTY USELESS!</span></p>
+    </div>
+</body>
+
+</html>
